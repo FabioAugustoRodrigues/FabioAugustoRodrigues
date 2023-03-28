@@ -10,5 +10,4 @@
 I'm a Software Engineer Student at Unicesumar and currently working as a Fullstack developer
 
 - Fullstack Developer
-- Stack: Laravel, Spring Framework, MySQL, Node, ReactJS, Docker
-- Studying: TailwindCSS
+- Stack: Laravel, Spring Framework, MySQL, Node, Angular, TypeScript
