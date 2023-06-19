@@ -9,5 +9,9 @@
 
 I'm a Software Engineer Student at Unicesumar and currently working as a Fullstack developer
 
-- Fullstack Developer
+- Backend Developer
 - Stack: Laravel, Spring Framework, MySQL, Node, Angular, TypeScript
+
+<br><br>
+
+https://fabolas.dev/
