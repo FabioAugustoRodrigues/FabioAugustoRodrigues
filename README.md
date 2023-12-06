@@ -7,8 +7,6 @@
 
 <br>
 
-I'm a Software Engineer Student at Unicesumar and currently working as a Fullstack developer
-
 - Backend Developer
 - Stack: PHP - Laravel, MySQL and JS
 
