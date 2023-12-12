@@ -7,7 +7,7 @@
 
 <br>
 
-- Backend Developer
+- PHP Developer
 - Stack: PHP - Laravel, MySQL and JS
 
 <br><br>
